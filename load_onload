@@ -1,0 +1,9 @@
+<div id="divTest1" value='2'>
+        这是div的内容！<br/>
+        <label id="lblText">
+            这是label的内容！
+        </label>
+        <div id="divTest2">
+        	这是第二个div的内容！
+        </div>
+  </div>
